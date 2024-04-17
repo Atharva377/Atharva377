@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atharva senapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva senapati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atharva-senapati-2ab939274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva senapati" height="30" width="40" /></a>
 <a href="https://instagram.com/atharva_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharva_004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atharva senapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva senapati" height="30" width="40" /></a>
+<a href="https://leetcode.com/atharvassenapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva senapati" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
