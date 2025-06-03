@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **atharvassenapati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kz9SguFq37KZTcSDgV1aKxCQKdyB_Tuo/view?usp=sharing](https://drive.google.com/file/d/1kz9SguFq37KZTcSDgV1aKxCQKdyB_Tuo/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lrHuemHwMz1xg1lNuwzoBa2rV8FKh67C/view?usp=sharing)
 
 - ⚡ Fun fact **I always think I need to learn news things!**
 
