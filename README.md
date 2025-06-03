@@ -1,52 +1,52 @@
-<!-- Enhanced Animated Header with Multiple Effects -->
+
+<!-- Futuristic Hero Section with Particle Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,15,18,20,24&height=250&section=header&text=&fontSize=0&animation=blinking&strokeWidth=2&stroke=00ff88" width="100%"/>
 </div>
 
-<!-- Multi-line Enhanced Typing Animation -->
+<!-- Dynamic Name with Glowing Text Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1500&color=A9FEF7&center=true&vCenter=true&multiline=true&width=940&height=150&lines=Hey+there!+I'm+Atharva+Senapati+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9C%A8;Let's+Code+Something+Amazing+Together!+%F0%9F%94%A5" alt="Typing Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=1000&color=00ff88&center=true&vCenter=true&width=600&height=100&lines=ATHARVA+SENAPATI;%E2%9A%A1+FULL+STACK+WIZARD+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%94%A5+CODE+INNOVATOR+%F0%9F%94%A5">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&height=100&lines=ATHARVA+SENAPATI;%E2%9A%A1+FULL+STACK+WIZARD+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%94%A5+CODE+INNOVATOR+%F0%9F%94%A5" alt="Dynamic Name Animation" />
+  </picture>
 </div>
 
-<!-- Profile Header with Enhanced Wave Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=120&section=header&text=&fontSize=16&animation=scaleIn" width="100%"/>
-</p>
-
-<!-- Enhanced Name Section with Glowing Effect -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&duration=1000&pause=3000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Atharva%20Senapati" alt="Name Animation" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</h1>
-
-<!-- Enhanced Badge Section with Animations -->
+<!-- Interactive Status Cards -->
 <div align="center">
-  
-  ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logo=code&logoColor=white&labelColor=FF6B6B&color=FF8E53)
-  ![AI Enthusiast](https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-4ECDC4?style=for-the-badge&logo=brain&logoColor=white&labelColor=4ECDC4&color=44A08D)
-  ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-45B7D1?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=45B7D1&color=96C93D)
-  ![Innovation Driven](https://img.shields.io/badge/Innovation%20Driven-9B59B6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=9B59B6&color=3742FA)
-  
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/🎯_SDE_Intern-MandetIndia-00ff88?style=for-the-badge&labelColor=1a1a1a&color=00ff88&logoColor=white" alt="Current Role"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/🎓_Student-SPPU-6366f1?style=for-the-badge&labelColor=1a1a1a&color=6366f1&logoColor=white" alt="Education"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/💡_Status-Building_the_Future-f59e0b?style=for-the-badge&labelColor=1a1a1a&color=f59e0b&logoColor=white" alt="Status"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/🚀_Focus-Innovation_&_Growth-ec4899?style=for-the-badge&labelColor=1a1a1a&color=ec4899&logoColor=white" alt="Focus"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Enhanced Status Section with Dynamic Animation -->
-<p align="center">
-  <em>🎯 Former SDE Intern @MandetIndia | 🎓 Student @ Savitribai Phule Pune University</em>
-</p>
-
+<!-- Enhanced Live Activity Monitor -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=Currently+Building+Amazing+Projects+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A;Open+to+Collaboration+%F0%9F%A4%9D;Let's+Connect+and+Build+Together!+%F0%9F%8C%9F" alt="Status Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=00ff88&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%A1+Currently+Crafting+Next-Gen+Solutions;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning+Frontiers;%F0%9F%A4+Open+for+Collaboration+%26+Innovation;%F0%9F%8C%9F+Let's+Build+Something+Extraordinary!" alt="Live Activity"/>
 </div>
 
-<!-- Enhanced Stats Section with More Metrics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Atharva377?label=Followers&style=for-the-badge&color=orange&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Atharva377?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
-</p>
+<!-- Neon-style Metrics Dashboard -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=00ff88&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Atharva377?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/Atharva377?label=Total%20Stars&style=for-the-badge&color=f59e0b&logo=github" alt="GitHub Stars"/>
+</div>
 
-<!-- Animated Separator -->
+<!-- Modern Separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -57,7 +57,7 @@
 
 <img align="right" alt="Coding Animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```yaml
+
 👨‍💻 Developer: Atharva Senapati
 🎯 Role: Full Stack Developer & AI Enthusiast
 📍 Location: Pune, Maharashtra, India
