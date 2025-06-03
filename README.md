@@ -36,7 +36,7 @@
 
 <!-- Enhanced Live Activity Monitor -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=00ff88&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%E2%9A%A1+Currently+Crafting+Next-Gen+Solutions;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning+Frontiers;%F0%9F%A4+Open+for+Collaboration+%26+Innovation" alt="Live Activity"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&color=00ff88&center=true&vCenter=true&multiline=true&width=900&height=90&lines=%E2%9A%A1+Currently+Crafting+Next-Gen+Solutions;%F0%9F%A7%A0+Exploring+AI+%26+ML+Frontiers;%F0%9F%A4+Open+for+Collaboration" alt="Live Activity"/>
 </div>
 
 <!-- Neon-style Metrics Dashboard -->
