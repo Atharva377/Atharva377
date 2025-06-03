@@ -8,10 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Atharva377/Atharva377/blob/main/profileimage.png" width="180" alt="Atharva Senapati" style="border-radius: 50%; border: 4px solid #00D9FF;" />
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Atharva Senapati
