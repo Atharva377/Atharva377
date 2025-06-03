@@ -1,35 +1,55 @@
-<!-- Animated Header -->
+<!-- Enhanced Animated Header with Multiple Effects -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Atharva+Senapati+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-<!-- Profile Header with Wave Animation -->
+<!-- Multi-line Enhanced Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1500&color=A9FEF7&center=true&vCenter=true&multiline=true&width=940&height=150&lines=Hey+there!+I'm+Atharva+Senapati+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9C%A8;Let's+Code+Something+Amazing+Together!+%F0%9F%94%A5" alt="Typing Animation" />
+</div>
+
+<!-- Profile Header with Enhanced Wave Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=120&section=header&text=&fontSize=16&animation=scaleIn" width="100%"/>
 </p>
 
+<!-- Enhanced Name Section with Glowing Effect -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Atharva Senapati
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&duration=1000&pause=3000&color=FF6B6B&center=true&vCenter=true&width=450&lines=Atharva+Senapati" alt="Name Animation" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
+<!-- Enhanced Badge Section with Animations -->
 <div align="center">
   
-  ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
-  ![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-4ECDC4?style=for-the-badge&logo=brain&logoColor=white)
-  ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-45B7D1?style=for-the-badge&logo=lightbulb&logoColor=white)
+  ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logo=code&logoColor=white&labelColor=FF6B6B&color=FF8E53)
+  ![AI Enthusiast](https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-4ECDC4?style=for-the-badge&logo=brain&logoColor=white&labelColor=4ECDC4&color=44A08D)
+  ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-45B7D1?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=45B7D1&color=96C93D)
+  ![Innovation Driven](https://img.shields.io/badge/Innovation%20Driven-9B59B6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=9B59B6&color=3742FA)
   
 </div>
 
+<!-- Enhanced Status Section with Dynamic Animation -->
 <p align="center">
   <em>🎯 Former SDE Intern @MandetIndia | 🎓 Student @ Savitribai Phule Pune University</em>
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=Currently+Building+Amazing+Projects+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A;Open+to+Collaboration+%F0%9F%A4%9D;Let's+Connect+and+Build+Together!+%F0%9F%8C%9F" alt="Status Animation" />
+</div>
+
+<!-- Enhanced Stats Section with More Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Atharva377?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Atharva377?label=Followers&style=for-the-badge&color=orange&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Atharva377?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
 </p>
+
+<!-- Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
 
