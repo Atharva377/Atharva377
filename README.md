@@ -1,7 +1,7 @@
 
-<!-- Futuristic Hero Section with Particle Background -->
+<!-- Futuristic Hero Section with Dynamic Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,15,18,20,24&height=250&section=header&text=&fontSize=0&animation=blinking&strokeWidth=2&stroke=00ff88" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=&fontSize=0&animation=fadeIn&strokeWidth=0" width="100%"/>
 </div>
 
 <!-- Dynamic Name with Glowing Text Effect -->
@@ -36,7 +36,7 @@
 
 <!-- Enhanced Live Activity Monitor -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=00ff88&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%A1+Currently+Crafting+Next-Gen+Solutions;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning+Frontiers;%F0%9F%A4+Open+for+Collaboration+%26+Innovation;%F0%9F%8C%9F+Let's+Build+Something+Extraordinary!" alt="Live Activity"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=00ff88&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%E2%9A%A1+Currently+Crafting+Next-Gen+Solutions;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning+Frontiers;%F0%9F%A4+Open+for+Collaboration+%26+Innovation" alt="Live Activity"/>
 </div>
 
 <!-- Neon-style Metrics Dashboard -->
@@ -50,7 +50,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 ---
 
 ## 🚀 About Me
