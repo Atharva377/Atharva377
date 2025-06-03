@@ -16,7 +16,7 @@
 <!-- Enhanced Name Section with Glowing Effect -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&duration=1000&pause=3000&color=FF6B6B&center=true&vCenter=true&width=450&lines=Atharva+Senapati" alt="Name Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&duration=1000&pause=3000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Atharva%20Senapati" alt="Name Animation" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
