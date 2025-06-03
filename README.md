@@ -1,46 +1,39 @@
-# 🌟 Full Stack Developer & AI Enthusiast
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Atharva+Senapati+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing Animation" />
+</div>
+
+<!-- Profile Header with Wave Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Atharva377/Atharva377/blob/main/profileimage.png" width="180" alt="Atharva Senapati" style="border-radius: 50%; border: 4px solid #00D9FF;" />
+</p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Atharva Senapati
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <div align="center">
   
-<!-- Animated Header with Dynamic Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Atharva%20Senapati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Digital%20Universe&descSize=20&descAlignY=55" width="100%"/>
-
-<!-- Enhanced Profile Section with Glow Effects -->
-<table align="center" style="margin: 30px 0;">
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200"/>
-</td>
-<td align="center" style="padding: 0 40px;">
-<img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="220" style="border-radius: 50%; border: 6px solid #00D4FF; box-shadow: 0 0 40px rgba(0, 212, 255, 0.6); filter: brightness(1.1);"/>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" style="transform: scaleX(-1);"/>
-</td>
-</tr>
-</table>
-
-<!-- Enhanced Status Badges with Glow -->
-<div align="center" style="margin: 30px 0;">
+  ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
+  ![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-4ECDC4?style=for-the-badge&logo=brain&logoColor=white)
+  ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-45B7D1?style=for-the-badge&logo=lightbulb&logoColor=white)
   
-![Status](https://img.shields.io/badge/🎯_Status-Actively_Coding-00D4FF?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/🧠_Focus-AI_Innovation-FF6B6B?style=for-the-badge&labelColor=000000)
-![Vibe](https://img.shields.io/badge/🌟_Vibe-Creative_Problem_Solver-4ECDC4?style=for-the-badge&labelColor=000000)
-![Passion](https://img.shields.io/badge/❤️_Passion-Building_the_Future-FFD700?style=for-the-badge&labelColor=000000)
-
 </div>
 
-<!-- Enhanced Stats Row with Custom Colors -->
-<div align="center" style="margin: 30px 0;">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=00D4FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Atharva377?label=Followers&style=for-the-badge&color=FF6B6B)
-![Stars](https://img.shields.io/github/stars/Atharva377?label=Total%20Stars&style=for-the-badge&color=4ECDC4)
-![Repositories](https://img.shields.io/badge/Repositories-Dynamic-FFD700?style=for-the-badge)
+<p align="center">
+  <em>🎯 Former SDE Intern @MandetIndia | 🎓 Student @ Savitribai Phule Pune University</em>
+</p>
 
-</div>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Atharva377?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</p>
 
 ---
 
