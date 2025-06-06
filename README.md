@@ -1,4 +1,3 @@
-
 <!-- Futuristic Hero Section with Dynamic Wave Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=&fontSize=0&animation=fadeIn&strokeWidth=0" width="100%"/>
@@ -50,6 +49,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 ---
 
 ## 🚀 About Me
@@ -82,6 +82,182 @@
 
 ---
 
+## ⏱️ Coding Time Analytics & Language Mastery
+
+<div align="center">
+
+### 📊 Weekly Coding Activity
+<!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Atharva377&theme=tokyonight&hide_border=true&layout=compact&custom_title=⏱️%20This%20Week%27s%20Coding%20Time&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=FFD700" alt="Wakatime Stats"/>
+<!--END_SECTION:waka-->
+
+### 🎯 Language Proficiency & Time Investment
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 🐍 **Python Mastery**
+![Python](https://img.shields.io/badge/Experience-4%2B_Years-3776AB?style=for-the-badge&logo=python&logoColor=white)
+```
+📈 Estimated Hours: 2,500+
+🏆 Expertise Level: Expert
+🎯 Primary Focus: AI/ML, Backend Development
+📊 Usage: 35% of total coding time
+🔥 Projects: 50+ Python applications
+```
+
+</td>
+<td width="50%" align="center">
+
+#### ⚛️ **JavaScript/React Expertise**
+![JavaScript](https://img.shields.io/badge/Experience-3%2B_Years-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+```
+📈 Estimated Hours: 2,000+
+🏆 Expertise Level: Expert
+🎯 Primary Focus: Frontend Development
+📊 Usage: 30% of total coding time
+🔥 Projects: 40+ Web applications
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+#### 🔧 **TypeScript Proficiency**
+![TypeScript](https://img.shields.io/badge/Experience-2%2B_Years-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+```
+📈 Estimated Hours: 1,200+
+🏆 Expertise Level: Advanced
+🎯 Primary Focus: Type-safe Development
+📊 Usage: 15% of total coding time
+🔥 Projects: 25+ TypeScript apps
+```
+
+</td>
+<td width="50%" align="center">
+
+#### ⚡ **C++ Foundation**
+![C++](https://img.shields.io/badge/Experience-3%2B_Years-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+```
+📈 Estimated Hours: 1,500+
+🏆 Expertise Level: Advanced
+🎯 Primary Focus: DSA, Competitive Programming
+📊 Usage: 10% of total coding time
+🔥 Projects: 100+ Problem solutions
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+#### 🌐 **Web Technologies Stack**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```
+📈 Estimated Hours: 800+
+🏆 Expertise Level: Expert
+🎯 Primary Focus: Modern Web Design
+📊 Usage: 5% of total coding time
+🔥 Projects: Integrated in all web apps
+```
+
+</td>
+<td width="50%" align="center">
+
+#### 🗄️ **Database Technologies**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+```
+📈 Estimated Hours: 600+
+🏆 Expertise Level: Advanced
+🎯 Primary Focus: Data Management
+📊 Usage: 5% of total coding time
+🔥 Projects: 30+ Database designs
+```
+
+</td>
+</tr>
+</table>
+
+### 📈 Coding Journey Timeline
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/2020-Started_with_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<br><sub><strong>Foundation Building</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/2021-Discovered_Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br><sub><strong>Backend Mastery</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/2022-React_Revolution-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<br><sub><strong>Frontend Excellence</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/2023-AI/ML_Journey-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<br><sub><strong>AI Innovation</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/2024-Full_Stack_Mastery-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+<br><sub><strong>Complete Solutions</strong></sub>
+</td>
+</tr>
+</table>
+
+### 🎯 Current Learning Tracker (2024)
+
+<div align="left">
+
+| Technology | Hours/Week | Progress | Next Milestone |
+|:----------:|:----------:|:--------:|:--------------:|
+| 🤖 **LangChain** | 15 hrs | ████████░░ 80% | Advanced Agents |
+| ⚡ **Next.js 14** | 12 hrs | ██████████ 90% | App Router Mastery |
+| 🔥 **FastAPI** | 10 hrs | ███████░░░ 70% | Async Optimization |
+| ☁️ **AWS Services** | 8 hrs | █████░░░░░ 50% | Solutions Architect |
+| 🐳 **Docker/K8s** | 6 hrs | ████░░░░░░ 40% | Production Deployment |
+
+</div>
+
+### 📊 Productivity Metrics
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+<h4>⏰ Total Coding Hours</h4>
+<h2 style="color: #00ff88;">8,000+</h2>
+<sub><em>Since 2020</em></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br>
+<h4>📈 Weekly Average</h4>
+<h2 style="color: #6366f1;">45-50</h2>
+<sub><em>Hours/Week</em></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"><br>
+<h4>🔥 Peak Day</h4>
+<h2 style="color: #f59e0b;">12-14</h2>
+<sub><em>Hours/Day</em></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="60"><br>
+<h4>🎯 Languages</h4>
+<h2 style="color: #ec4899;">10+</h2>
+<sub><em>Technologies</em></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 💻 Tech Arsenal & Expertise
 
 <div align="center">
@@ -92,26 +268,32 @@
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
 <br><b>React</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" height="50"/>
 <br><b>Next.js</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
 <br><b>TypeScript</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <br><b>JavaScript</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/>
 <br><b>Redux</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
 <br><b>Tailwind</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 </tr>
 </table>
@@ -122,26 +304,32 @@
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
 <br><b>Python</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/>
 <br><b>Django</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="50"/>
 <br><b>FastAPI</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
 <br><b>Node.js</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50"/>
 <br><b>Express</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
 <br><b>C++</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 </tr>
 </table>
@@ -152,22 +340,27 @@
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/original/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 <br><b>MySQL</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
 <br><b>MongoDB</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
 <br><b>PostgreSQL</b>
+<br><sub>⭐⭐⭐☆☆</sub>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50"/>
 <br><b>SQLite</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/>
 <br><b>Redis</b>
+<br><sub>⭐⭐⭐☆☆</sub>
 </td>
 </tr>
 </table>
@@ -178,26 +371,32 @@
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50"/>
 <br><b>TensorFlow</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50"/>
 <br><b>PyTorch</b>
+<br><sub>⭐⭐⭐☆☆</sub>
 </td>
 <td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
 <br><b>Scikit-learn</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://python.langchain.com/img/brand/wordmark.png" width="50" height="30"/>
 <br><b>LangChain</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50"/>
 <br><b>Pandas</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50"/>
 <br><b>NumPy</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 </tr>
 </table>
@@ -208,26 +407,32 @@
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
 <br><b>Git</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
 <br><b>Docker</b>
+<br><sub>⭐⭐⭐☆☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 <br><b>Linux</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
 <br><b>AWS</b>
+<br><sub>⭐⭐⭐☆☆</sub>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
 <br><b>Firebase</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
 <br><b>Figma</b>
+<br><sub>⭐⭐⭐⭐☆</sub>
 </td>
 </tr>
 </table>
@@ -246,21 +451,62 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
 <h3>🤖 Generative AI</h3>
 <p><em>Building intelligent applications with cutting-edge AI models</em></p>
+<br>
+<img src="https://img.shields.io/badge/Progress-80%25-00ff88?style=for-the-badge"/>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
 <h3>🔗 LangChain</h3>
 <p><em>Advanced AI workflows and agent development</em></p>
+<br>
+<img src="https://img.shields.io/badge/Progress-90%25-6366f1?style=for-the-badge"/>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
 <h3>⚛️ React Advanced</h3>
 <p><em>Modern patterns, performance optimization & architecture</em></p>
+<br>
+<img src="https://img.shields.io/badge/Progress-85%25-f59e0b?style=for-the-badge"/>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="80"><br>
 <h3>☁️ Cloud Architecture</h3>
 <p><em>Scalable deployment and microservices</em></p>
+<br>
+<img src="https://img.shields.io/badge/Progress-60%25-ec4899?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Real-Time Coding Statistics
+
+<div align="center">
+
+<!-- WakaTime Integration for Real Coding Hours -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Atharva377&hide_title=true&hide_border=true&langs_count=5&bg_color=0d1117&text_color=ffffff&icon_color=00d4ff&title_color=00d4ff&custom_title=This%20Week%27s%20Development%20Breakdown" alt="Coding Time This Week"/>
+
+### 🔥 Most Productive Hours
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌅_Morning-6AM--12PM-FFD700?style=for-the-badge"/>
+<br><sub><strong>20% - Light coding</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/☀️_Afternoon-12PM--6PM-FF6B6B?style=for-the-badge"/>
+<br><sub><strong>30% - Active development</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌆_Evening-6PM--10PM-4ECDC4?style=for-the-badge"/>
+<br><sub><strong>35% - Peak productivity</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌙_Night-10PM--2AM-9B59B6?style=for-the-badge"/>
+<br><sub><strong>15% - Deep focus sessions</strong></sub>
 </td>
 </tr>
 </table>
@@ -307,6 +553,33 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Atharva377&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4&title_color=00D4FF&text_color=ffffff&icon_color=FFD700" alt="GitHub Trophies"/>
 
+### 🎯 Coding Milestones
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🏅_First_Commit-2020-00ff88?style=for-the-badge"/>
+<br><sub><strong>Journey Begins</strong></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔥_100+_Commits-2021-ff6b6b?style=for-the-badge"/>
+<br><sub><strong>Consistency Streak</strong></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/⭐_50+_Stars-2022-ffd700?style=for-the-badge"/>
+<br><sub><strong>Community Recognition</strong></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🚀_1000+_Commits-2023-4ecdc4?style=for-the-badge"/>
+<br><sub><strong>Dedication Milestone</strong></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/💡_AI_Projects-2024-9b59b6?style=for-the-badge"/>
+<br><sub><strong>Innovation Focus</strong></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -351,6 +624,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <h3>🤖 AI Applications</h3>
 <p><em>Generative AI, LangChain Agents, and Intelligent Chatbots</em></p>
+<br>
+<img src="https://img.shields.io/badge/Python-2,500+_hrs-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/TensorFlow-800+_hrs-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<br>
 <a href="https://github.com/Atharva377?tab=repositories&q=&type=&language=python&sort=">
 <img src="https://img.shields.io/badge/Explore_AI_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -359,6 +637,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <h3>🌐 Full Stack Apps</h3>
 <p><em>React, Next.js, Django, and Modern Web Solutions</em></p>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-2,000+_hrs-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/React-1,500+_hrs-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<br>
 <a href="https://github.com/Atharva377?tab=repositories&q=&type=&language=javascript&sort=">
 <img src="https://img.shields.io/badge/Explore_Web_Apps-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -367,9 +650,41 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100">
 <h3>📱 Mobile & APIs</h3>
 <p><em>RESTful APIs, Mobile Apps, and Cross-Platform Solutions</em></p>
+<br>
+<img src="https://img.shields.io/badge/API_Development-1,200+_hrs-00D4AA?style=flat-square&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Database-600+_hrs-336791?style=flat-square&logoColor=white"/>
+<br>
 <a href="https://github.com/Atharva377?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_All_Projects-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+</td>
+</tr>
+</table>
+
+### 📈 Project Impact Metrics
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h4>🎯 Total Projects</h4>
+<h2 style="color: #00ff88;">100+</h2>
+<sub><em>Across all platforms</em></sub>
+</td>
+<td align="center" width="25%">
+<h4>⭐ Stars Earned</h4>
+<h2 style="color: #ffd700;">200+</h2>
+<sub><em>Community appreciation</em></sub>
+</td>
+<td align="center" width="25%">
+<h4>🔀 Forks Created</h4>
+<h2 style="color: #ff6b6b;">50+</h2>
+<sub><em>Code reusability</em></sub>
+</td>
+<td align="center" width="25%">
+<h4>🤝 Collaborations</h4>
+<h2 style="color: #4ecdc4;">15+</h2>
+<sub><em>Team projects</em></sub>
 </td>
 </tr>
 </table>
@@ -433,6 +748,22 @@
 </tr>
 </table>
 
+### 📊 Social Proof & Engagement
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/Atharva377?label=GitHub%20Followers&style=social&logo=github"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/Atharva377?affiliations=OWNER%2CCOLLABORATOR&style=social&logo=github"/>
+</td>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=Atharva377&style=flat-square&color=blue"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -449,6 +780,29 @@
 🚀 Innovation First    ⚡ Performance Driven    🎨 User-Centric Design
 💡 Continuous Learning    🤝 Collaborative Spirit    🔥 Passionate Execution
 ```
+
+### 📚 Learning Philosophy
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📖_Read-Daily-00ff88?style=for-the-badge"/>
+<br><sub><strong>Tech articles & documentation</strong></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛠️_Build-Weekly-6366f1?style=for-the-badge"/>
+<br><sub><strong>Side projects & experiments</strong></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤝_Share-Monthly-f59e0b?style=for-the-badge"/>
+<br><sub><strong>Knowledge & insights</strong></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯_Improve-Always-ec4899?style=for-the-badge"/>
+<br><sub><strong>Skills & expertise</strong></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -481,6 +835,36 @@
 </table>
 
 *Every star, follow, and coffee fuels my passion for innovation! 🚀*
+
+### 💬 Latest Activity
+
+<!-- Add this to show recent activity -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=50&lines=💻+Working+on+AI-powered+applications;🔥+Exploring+Next.js+14+features;🤖+Building+LangChain+agents;⚡+Optimizing+React+performance" alt="Current Activity"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 *"Code is poetry written in logic"* 🌟
+
+**Thanks for stopping by! Let's shape the digital future together! 💻✨🚀**
+
+### 📈 Visitor Count & Analytics
+
+<img src="https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views Counter"/>
+
+### 🎵 Currently Listening To
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=40&lines=🎧+Coding+to+lofi+beats;🎼+Electronic+music+vibes;🎵+Focus+instrumental+tracks" alt="Music Status"/>
+
+<!-- Enhanced Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
