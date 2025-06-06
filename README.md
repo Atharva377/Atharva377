@@ -836,13 +836,6 @@
 
 *Every star, follow, and coffee fuels my passion for innovation! 🚀*
 
-### 💬 Latest Activity
-
-<!-- Add this to show recent activity -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=50&lines=💻+Working+on+AI-powered+applications;🔥+Exploring+Next.js+14+features;🤖+Building+LangChain+agents;⚡+Optimizing+React+performance" alt="Current Activity"/>
-
-</div>
-
 ---
 
 <div align="center">
