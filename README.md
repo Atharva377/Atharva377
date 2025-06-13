@@ -506,52 +506,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=&fontSize=0&animation=fadeIn&strokeWidth=0" width="100%"/>
 </div>
 
-<!-- Dynamic Name with Glowing Text Effect -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=1000&color=00ff88&center=true&vCenter=true&width=600&height=100&lines=ATHARVA+SENAPATI;%E2%9A%A1+FULL+STACK+WIZARD+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%94%A5+CODE+INNOVATOR+%F0%9F%94%A5">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&height=100&lines=ATHARVA+SENAPATI;%E2%9A%A1+FULL+STACK+WIZARD+%E2%9A%A1;%F0%9F%A4%96+AI+ARCHITECT+%F0%9F%A4%96;%F0%9F%94%A5+CODE+INNOVATOR+%F0%9F%94%A5" alt="Dynamic Name Animation" />
-  </picture>
-</div>
 
-<!-- Interactive Status Cards -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/🎯_SDE_Intern-MandetIndia-00ff88?style=for-the-badge&labelColor=1a1a1a&color=00ff88&logoColor=white" alt="Current Role"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/🎓_Student-SPPU-6366f1?style=for-the-badge&labelColor=1a1a1a&color=6366f1&logoColor=white" alt="Education"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/💡_Status-Building_the_Future-f59e0b?style=for-the-badge&labelColor=1a1a1a&color=f59e0b&logoColor=white" alt="Status"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/🚀_Focus-Innovation_&_Growth-ec4899?style=for-the-badge&labelColor=1a1a1a&color=ec4899&logoColor=white" alt="Focus"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Enhanced Live Activity Monitor -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&color=00ff88&center=true&vCenter=true&multiline=true&width=900&height=90&lines=%E2%9A%A1+Currently+Crafting+Next-Gen+Solutions;%F0%9F%A7%A0+Exploring+AI+%26+ML+Frontiers;%F0%9F%A4+Open+for+Collaboration" alt="Live Activity"/>
-</div>
-
-<!-- Neon-style Metrics Dashboard -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharva377&label=Profile%20Views&color=00ff88&style=for-the-badge&logo=eye" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Atharva377?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Atharva377?label=Total%20Stars&style=for-the-badge&color=f59e0b&logo=github" alt="GitHub Stars"/>
-</div>
-
-<!-- Modern Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
 
