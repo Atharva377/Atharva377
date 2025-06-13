@@ -502,9 +502,7 @@
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/><!-- Futuristic Hero Section with Dynamic Wave Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=&fontSize=0&animation=fadeIn&strokeWidth=0" width="100%"/>
-</div>
+
 
 
 
