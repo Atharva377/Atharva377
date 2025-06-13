@@ -192,7 +192,7 @@
 <table border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/original/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mysql.svg" width="60" height="60"/>
 <br><b>MySQL</b>
 <br><sub>Advanced</sub>
 </td>
