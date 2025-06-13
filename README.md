@@ -2,7 +2,7 @@
 
 <!-- Futuristic Hero Section with Enhanced Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=&fontSize=0&animation=fadeIn&strokeWidth=0&desc=Full%20Stack%20Developer%20%26%20AI%20Innovator&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&animation=fadeIn&fontSize=40&text=Full+Stack+Developer&desc=AI+Innovator&descSize=25&descAlignY=65&fontColor=ffffff%22%20width=%22100%"/>
 </div>
 
 <!-- Dynamic Name with Enhanced Glowing Text Effect -->
