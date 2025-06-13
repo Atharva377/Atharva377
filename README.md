@@ -893,23 +893,3 @@
 
 ---
 
-<div align="center">
-<sub><em>Profile last updated: June 2025 | Built with ❤️, ☕, and lots of 🔥</em></sub>
-</div>">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
-<h3>🤖 AI & ML Projects</h3>
-<p><strong>Featured Technologies:</strong></p>
-<p><em>• Generative AI Applications<br>• LangChain Agent Development<br>• Intelligent Chatbot Systems<br>• Computer Vision Solutions<br>• NLP Processing Pipelines</em></p>
-<a href="https://github.com/Atharva377?tab=repositories&q=&type=&language=python&sort=stars">
-<img src="https://img.shields.io/badge/Explore_AI_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120">
-<h3>🌐 Full Stack Applications</h3>
-<p><strong>Featured Technologies:</strong></p>
-<p><em>• React & Next.js Applications<br>• Django REST APIs<br>• Real-time Web Solutions<br>• E-commerce Platforms<br>• Progressive Web Apps</em></p>
-<a href="https://github.com/Atharva377?tab=repositories&q=&type=&language=javascript&sort=stars">
-<img src="https://img.shields.io/badge/Explore_Web_Apps-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
